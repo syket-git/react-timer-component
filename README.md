@@ -1,36 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## React JS Machine Coding ( Timer App ) - Frontend Machine Coding Interview Questions
 
-## Getting Started
+Youtube Video Link: https://youtu.be/N7dX1vXhcI8
 
-First, run the development server:
+![React JS Machine Coding( Timer App ) - Frontend Machine Coding Interview Questions](https://github.com/syket-git/react-timer-component/assets/39830305/4e7e6d0a-796c-4358-b657-74b2297c9992)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Hey everyone, In this video I have shared a React machine coding question that was asked to one of my friends recently. React Interview Question to build a Timer app will be created in this video along with tips and tricks to tackle your React JS and JavaScript Questions in Frontend Machine Coding Interviews.
